@@ -27,4 +27,4 @@ asyncio.run(main())
 ```
 
 > [!WARNING]
-> The module is still in development and beta testing, there is no normal documentation, so if you want to find out what this module can do, open this file: [HELP](https://github.com/DEViantUA/GenshinPyRail/blob/main/genshinpyrail/src/data/help.json)
+> The module is still in development and beta testing, there is no normal documentation, so if you want to find out what this module can do, open this file: [HELP](https://github.com/DEViantUA/GenshinPyRail/blob/main/genshinpyrail/src/data/help.json) Well, or open the code: [genshinpyrail.py](https://github.com/DEViantUA/GenshinPyRail/blob/main/genshinpyrail/genshinpyrail.py)
