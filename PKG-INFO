@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: genshinpyrail
+Version: 0.0.2
+Summary: A module that allows you to create cards for your projects based on the games Honkai Star Rail and Genshin Impact
+Author: Deviant
+Author-email: deviantapi@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: Pillow (>=10.0.1,<11.0.0)
+Requires-Dist: asyncio (>=3.9.3,<4.0.0)
+Requires-Dist: cachetools (>=5.2.0,<6.0.0)
+Requires-Dist: genshin (>=1.6.2,<2.0.0)
+Requires-Dist: pydantic (==1.10.13)

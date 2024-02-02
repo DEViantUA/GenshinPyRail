@@ -1,0 +1,47 @@
+{
+    "Game.STARRAIL":{
+       "get_character_list":{
+          "description":"Creates an image with all of the player's Star Rail characters",
+          "params":{
+             "uid":"Player UID To get information about another account. Defaults to None.",
+             "character_id":"Character ID Specify if you want to receive only 1 character card. Defaults to None."
+          },
+          "return":{
+             "StarRaillCharterList":{
+                "description":"Class containing information about the quantity and finished cards",
+                "functions":{
+                   "get_info_character":{
+                      "description":"Returns character information from a card",
+                      "params":{
+                         "character_id":"Character ID Specify if you want to receive only 1 character. Defaults to None."
+                      }
+                   },
+                   "get_card":{
+                      "description":"Returns card",
+                      "params":{
+                         "character_id":"Character ID Specify if you want to receive only 1 character. Defaults to None."
+                      }
+                   }
+                }
+             }
+          }
+       },
+       "get_ascension":{
+          "description":"Generates a card with materials for character elevation",
+          "params":{
+             "character_id":"Character ID Specify if you want to receive only 1 character"
+          },
+          "return":{
+             "StarRaillAscension":{
+                "description":"StarRaill Ascension containing information and finished image",
+                "functions":{
+                   "get_info":{
+                      "description":"Returns information about a character",
+                      "params": null
+                   }
+                }
+             }
+          }
+       }
+    }
+ }
