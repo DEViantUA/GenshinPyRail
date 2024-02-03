@@ -9,7 +9,6 @@ python = "^3.7"
 Pillow = "^10.0.1"
 cachetools = "^5.2.0"
 genshin = "^1.6.2"
-asyncio = "^3.9.3"
 pydantic = "1.10.13"
 
 
