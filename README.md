@@ -5,6 +5,9 @@ A module that allows you to create cards for your projects based on the games Ho
 ```
 pip install genshinpyrail
 ```
+or:
+```pip install genshinpyrail --no-deps
+```
 
 ### Usage example:
 ``` python
