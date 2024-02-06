@@ -25,15 +25,21 @@ color = {
 }
 
 
-background_ascension = {
-    "Ice": git.ascension_bg_ice,
-    "Grass": git.ascension_bg_grass,
-    "Wind": git.ascension_bg_wind,
-    "Electric": git.ascension_bg_electric,
-    "Water": git.ascension_bg_water,
-    "Fire": git.ascension_bg_fire,
-    "Rock": git.ascension_bg_rock,
-}
+async def background_ascension(element):
+    if element == "Ice":
+        return await git.ascension_bg_ice
+    elif element == "Grass":
+        return await git.ascension_bg_grass
+    elif element == "Wind":
+        return await git.ascension_bg_wind
+    elif element == "Electric":
+        return await git.ascension_bg_electric
+    elif element == "Water":
+        return await git.ascension_bg_water
+    elif element == "Fire":
+        return await git.ascension_bg_fire
+    else:
+        return await git.ascension_bg_rock
 
 
 class Creat:
@@ -50,16 +56,25 @@ class Creat:
         return await utility.get_data_charter(url)       
 
     async def get_mobs(self,idM, ignore = 0):
-        with open(str(_DATA  / "data" / "ascension" / f"monster_{self.lang}.json"), "r", encoding="utf-8") as file:
-            data = json.load(file)
+        file_path = Path(_DATA) / "data" / "ascension" / f"monster_{self.lang}.json"
+        data = {}
+        if file_path.exists():
+            with open(str(_DATA  / "data" / "ascension" / f"monster_{self.lang}.json"), "r", encoding="utf-8") as file:
+                data = json.load(file)          
+                
         info = {}
         for key in data:
             if key == ignore:
                 continue
             if idM in data[key]["reward"]:
                 info = data.get(key)
+        
         if info == {}:
             await update_data.process_and_save_to_json(lang=self.lang)
+            
+            with open(str(_DATA  / "data" / "ascension" / f"monster_{self.lang}.json"), "r", encoding="utf-8") as file:
+                data = json.load(file)
+                
             for key in data:
                 if key == ignore:
                     continue
@@ -70,7 +85,7 @@ class Creat:
     
     async def creat_background(self):
         splash = await pill.get_dowload_img(utility.AMBR_LINK_IMAGE.format(splash = self.data_charter["icon"].replace("UI_AvatarIcon", "UI_Gacha_AvatarImg")), size= (1692, 838))
-        background = await background_ascension.get(self.element)
+        background = await background_ascension(self.element)
         self.background = background.convert("RGBA").copy()
         charter_name = self.data_charter["name"]
         

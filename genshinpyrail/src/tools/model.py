@@ -135,3 +135,38 @@ class StarRaillCharterList(BaseModel):
         for key in self.icon:
             if int(key.id) == int(character_id):
                 return key
+
+class ActionCard(BaseModel):
+    value: Optional[int]
+    max: Optional[int]
+
+class CharacterCard(BaseModel):
+    value: Optional[int]
+    max: Optional[int]
+
+class Information(BaseModel):
+    uid: Optional[int]
+    name: Optional[str]
+    lvl: Optional[int]
+    lang: Optional[str]
+
+class GenshinTCG(BaseModel):
+    action_card: Optional[ActionCard]
+    character_card: Optional[CharacterCard]
+    information: Optional[Information]
+    win: Optional[int]
+    card: Optional[Image.Image]
+    class Config:
+        arbitrary_types_allowed = True
+    
+    async def get_info_tcg(self,tcg_id):
+        data = await get_data_charter(f"https://api.ambr.top/v2/{self.information.lang}/gcg/{tcg_id}")
+        return data
+
+class GenshinInfoTCG(BaseModel):
+    id: Optional[int]
+    icon: Optional[str]
+    type: Optional[str]
+    card: Optional[Image.Image]
+    class Config:
+        arbitrary_types_allowed = True

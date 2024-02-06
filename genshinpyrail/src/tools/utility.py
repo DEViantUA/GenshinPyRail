@@ -64,17 +64,30 @@ element_genshin_color = {
     "Hydro": (85,181,255,255),
 }
 
-convert_raryti_star_rail = {
-    "CombatPowerLightconeRarity5": 5,
-    "CombatPowerLightconeRarity4": 4,
-    "CombatPowerLightconeRarity3": 3,
-    "CombatPowerLightconeRarity2": 2,
-    "CombatPowerLightconeRarity1": 1,
-}
+
+def replace_values(text, params, keywords):
+    if params:
+        for key, value in params.items():
+            placeholder = f'$[{key}]'
+            if placeholder in text:
+                text = text.replace(placeholder, str(value))
+    if keywords:
+        for key, value in keywords.items():
+            placeholder = f'$[{key}]'
+            if placeholder in text:
+                text = text.replace(placeholder, str(value))
+
+    #text = text.replace("\\n"," ")
+    
+    return text
 
 async def remove_html_tags(text):
     clean_text = re.sub('<.*?>', '', text)
     return clean_text
+
+def remove_brackets_content(text):
+    cleaned_text = re.sub(r'\{.*?\}', '', text)
+    return cleaned_text
 
 async def get_data_charter(url):
     while True:
@@ -160,3 +173,4 @@ async def get_stars_raill(rank, style = 0):
             return await of.g_two
         else:
             return await of.g_one
+

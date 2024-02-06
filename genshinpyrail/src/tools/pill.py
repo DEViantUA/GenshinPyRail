@@ -37,7 +37,11 @@ async def get_dowload_img(link,size = None, thumbnail_size = None):
                 await session.close()
     except:
         raise
-    image = Image.open(BytesIO(image)).convert("RGBA")
+    try:
+        image = Image.open(BytesIO(image)).convert("RGBA")
+    except:
+        print(link)
+        raise
     if size:
         image = image.resize(size)
         cache[cache_key] = image
@@ -66,17 +70,26 @@ async def create_image_text(text, font_size, max_width=336, max_height=None, col
     lines = []
     line = []
     for word in text.split():
-        if line:
-            temp_line = line + [word]
-            temp_text = ' '.join(temp_line)
-            temp_width = font.getmask(temp_text).getbbox()[2]
-            if temp_width <= max_width:
-                line = temp_line
-            else:
-                lines.append(line)
-                line = [word]
+        if '\\n' in word:
+            parts = word.split('\\n')
+            line.append(parts[0])
+            lines.append(line)
+            line = []
+            if len(parts) > 1:
+                line.append(parts[1])
         else:
-            line = [word]
+            if line:
+                temp_line = line + [word]
+                temp_text = ' '.join(temp_line)
+                temp_width = font.getmask(temp_text).getbbox()[2]
+                if temp_width <= max_width:
+                    line = temp_line
+                else:
+                    lines.append(line)
+                    line = [word]
+            else:
+                line = [word]
+
     if line:
         lines.append(line)
 
@@ -92,13 +105,13 @@ async def create_image_text(text, font_size, max_width=336, max_height=None, col
         new_font_size = int(font_size * reduction_ratio)
         font = await get_font(new_font_size)
 
-    img = Image.new('RGBA', (min(width, max_width), height + (font_size - 4)), color=(255, 255, 255, 0))
+    img = Image.new('RGBA', (min(width, max_width), height + (font_size + 2)), color=(255, 255, 255, 0))
 
     draw = ImageDraw.Draw(img)
     y_text = 0
     for line in lines:
         text_width, text_height = font.getmask(' '.join(line)).getbbox()[2:]
         draw.text((0, y_text), ' '.join(line), font=font, fill=color)
-        y_text += text_height + 5
+        y_text += text_height + 3
 
     return img

@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "genshinpyrail"
-version = "0.0.2"
+version = "0.0.3"
 description = "A module that allows you to create cards for your projects based on the games Honkai Star Rail and Genshin Impact"
 authors = ["Deviant <deviantapi@gmail.com>"]
+readme = 'README.md'
 
 [tool.poetry.dependencies]
 python = "^3.7"
@@ -10,8 +11,6 @@ Pillow = "^10.0.1"
 cachetools = "^5.2.0"
 genshin = "^1.6.2"
 pydantic = "1.10.13"
-
-
 
 [build-system]
 requires = ["poetry-core"]

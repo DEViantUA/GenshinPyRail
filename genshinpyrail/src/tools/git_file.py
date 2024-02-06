@@ -76,6 +76,37 @@ mapping = {
     'raill_up_charter_list': 'assets/raill_charter_list/raill_up_charter_list.png',
     'level_frame_charter_list': 'assets/raill_charter_list/level_frame_charter_list.png',
     
+    "bg_tcg":'assets/tcg/bg_tcg.png',
+    "frame_charters_tcg":'assets/tcg/frame_charters.png',
+    "frame_others_tcg":'assets/tcg/frame_others.png',
+    "icons_stats_tcg":'assets/tcg/icons_stats.png',
+    
+    
+    "CostTypeAnemo":'assets/tcgInfo/CostTypeAnemo.png',
+    "CostTypeArcane":'assets/tcgInfo/CostTypeArcane.png',
+    "CostTypeCryo":'assets/tcgInfo/CostTypeCryo.png',
+    "CostTypeDenro":'assets/tcgInfo/CostTypeDenro.png',
+    "CostTypeElectro":'assets/tcgInfo/CostTypeElectro.png',
+    "CostTypeGeo":'assets/tcgInfo/CostTypeGeo.png',
+    "CostTypeHydro":'assets/tcgInfo/CostTypeHydro.png',
+    "CostTypePyro":'assets/tcgInfo/CostTypePyro.png',
+    "CostTypeSame":'assets/tcgInfo/CostTypeSame.png',
+    "CostTypeVoid":'assets/tcgInfo/CostTypeVoid.png',
+    
+    
+    "hp_icon":'assets/tcgInfo/hp_icon.png',
+    "name_tcg_tags":'assets/tcgInfo/name_tcg_tags.png',
+    "big_talant_bacgkround_tcg": 'assets/tcgInfo/big_talant_bacgkround_tcg.png',
+    "big_tcg_background_info": 'assets/tcgInfo/big_tcg_background_info.png',
+    "frame_tcg_card":'assets/tcgInfo/frame_tcg_card.png',
+    "talant_bacgkround_tcg":'assets/tcgInfo/talant_bacgkround_tcg.png',
+    "tcg_background_card":'assets/tcgInfo/tcg_background_card.png',
+    "tcg_background_info":'assets/tcgInfo/tcg_background_info.png',
+    "tcg_stars_1":'assets/tcgInfo/tcg_stars_1.png',
+    "tcg_stars_2":'assets/tcgInfo/tcg_stars_2.png',
+    "tcg_stars_3":'assets/tcgInfo/tcg_stars_3.png',
+    "tcg_cost_icon":'assets/tcgInfo/cost_icon.png',
+    
     'g_five': 'assets/raill/stars/g_five.png',
     'g_four': 'assets/raill/stars/g_four.png',
     'g_three': 'assets/raill/stars/g_three.png',

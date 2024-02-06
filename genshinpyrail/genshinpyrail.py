@@ -9,6 +9,8 @@ from .src.tools.utility import convertor_lang
 from .src.tools import model
 
 
+from .src.generation.genshin import generator_tcg_info
+from .src.generation.genshin import generator_tcg as genshin_tcg
 from .src.generation.genshin import generator_ascension as genshin_ascension
 from .src.generation.genshin import generator_character_list as genshin_character_list
 
@@ -54,7 +56,7 @@ class GenPyRail(metaclass=ABCMeta):
         
         self.lang = convertor_lang.get(lang,lang)
     
-    async def setting_client(self,cookies,lang):
+    async def setting_client(self,cookies):
         
         """Changing the client with new parameters
 
@@ -157,6 +159,12 @@ class GenshinUser(GenPyRail):
         self.uid = uid
         self.client.game = game
     
+    async def __aenter__(self):
+        return self
+        
+    async def __aexit__(self, *args):
+        pass
+    
     async def get_character_list(self, uid = None, character_id = None):
         """Creates an image with all of the player's Genshin characters
 
@@ -189,14 +197,46 @@ class GenshinUser(GenPyRail):
         data = await genshin_ascension.Creat(character_id, self.lang).start()
         
         return model.GenshinAscension(**data)
-
     
+    async def get_tcg(self):
+        """Generates a card with a view of the user's TCG cards and his statistics
+
+        Returns:
+            GenshinTCG Model: Contains information about statistics and cards
+        """
+        
+        info = await self.client.get_genshin_tcg_preview(self.uid)
+        data = await self.client.genshin_tcg(self.uid)
+        data = await genshin_tcg.Creat(data,info, self.uid).start()
+        
+        return model.GenshinTCG(**data)
+    
+    async def get_tcg_info(self, сard_id):
+        """Generates an image with TCG card information
+
+        Args:
+            сard_id (int): TCG Card ID
+
+        Returns:
+            GenshinInfoTCG Model: Contains information and card
+        """
+        data = await generator_tcg_info.Creat(сard_id, self.lang).start()
+        
+        return model.GenshinInfoTCG(**data)
+        
+
 class StarRaillUser(GenPyRail):
     def __init__(self, game, uid,  **kwargs) -> None:
         super().__init__(**kwargs)
         self.game = game
         self.uid = uid
         self.client.game = game
+    
+    async def __aenter__(self):
+        return self
+        
+    async def __aexit__(self, *args):
+        pass
     
     
     async def get_character_list(self, uid = None, character_id = None):

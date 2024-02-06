@@ -1,0 +1,6496 @@
+{
+  "20010101": {
+    "id": "20010101",
+    "name": "Dendro Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Grass_02.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20010201": {
+    "id": "20010201",
+    "name": "Large Dendro Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Grass_03.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20010301": {
+    "id": "20010301",
+    "name": "Anemo Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Wind_02.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20010401": {
+    "id": "20010401",
+    "name": "Large Anemo Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Wind_03.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20010501": {
+    "id": "20010501",
+    "name": "Electro Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Electric_02.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20010601": {
+    "id": "20010601",
+    "name": "Large Electro Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Electric_03.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20010701": {
+    "id": "20010701",
+    "name": "Mutant Electro Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Electric_03_Positive.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20010801": {
+    "id": "20010801",
+    "name": "Cryo Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Ice_02.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20010901": {
+    "id": "20010901",
+    "name": "Large Cryo Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Ice_03.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20011001": {
+    "id": "20011001",
+    "name": "Hydro Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Water_02.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20011101": {
+    "id": "20011101",
+    "name": "Large Hydro Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Water_03.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20011201": {
+    "id": "20011201",
+    "name": "Pyro Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Fire_02.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20011301": {
+    "id": "20011301",
+    "name": "Large Pyro Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Fire_03.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20011401": {
+    "id": "20011401",
+    "name": "Geo Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Rock_02.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20011501": {
+    "id": "20011501",
+    "name": "Large Geo Slime",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Slime_Rock_03.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20020101": {
+    "id": "20020101",
+    "name": "Eye of the Storm",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Elemental_Wind_01.png",
+    "reward": [
+      "202",
+      "112002",
+      "112003",
+      "112004"
+    ]
+  },
+  "20040101": {
+    "id": "20040101",
+    "name": "Electro Hypostasis",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Effigy_Electric.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104141",
+      "104142",
+      "104143",
+      "104144",
+      "113002",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400137",
+      "400138"
+    ]
+  },
+  "20040201": {
+    "id": "20040201",
+    "name": "Anemo Hypostasis",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Effigy_Wind.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104151",
+      "104152",
+      "104153",
+      "104154",
+      "113001",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400052",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "20040301": {
+    "id": "20040301",
+    "name": "Geo Hypostasis",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Effigy_Rock.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104171",
+      "104172",
+      "104173",
+      "104174",
+      "113009",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "20040401": {
+    "id": "20040401",
+    "name": "Hydro Hypostasis",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Effigy_Water.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104121",
+      "104122",
+      "104123",
+      "104124",
+      "113028",
+      "400022",
+      "400023",
+      "400042",
+      "400043",
+      "400047",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400132",
+      "400133"
+    ]
+  },
+  "20040501": {
+    "id": "20040501",
+    "name": "Cryo Hypostasis",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Effigy_Ice.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104161",
+      "104162",
+      "104163",
+      "104164",
+      "113020",
+      "400022",
+      "400023",
+      "400042",
+      "400043",
+      "400052",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400147",
+      "400148"
+    ]
+  },
+  "20040601": {
+    "id": "20040601",
+    "name": "Pyro Hypostasis",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Effigy_Fire.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104111",
+      "104112",
+      "104113",
+      "104114",
+      "113024",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400047",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400127",
+      "400128"
+    ]
+  },
+  "20040701": {
+    "id": "20040701",
+    "name": "Dendro Hypostasis",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Effigy_Grass.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104131",
+      "104132",
+      "104133",
+      "104134",
+      "113040",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400047",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "20050101": {
+    "id": "20050101",
+    "name": "Oceanid",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Oceanid.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104121",
+      "104122",
+      "104123",
+      "104124",
+      "113012",
+      "400022",
+      "400023",
+      "400042",
+      "400043",
+      "400047",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400132",
+      "400133"
+    ]
+  },
+  "20051001": {
+    "id": "20051001",
+    "name": "Tainted Water-Splitting Phantasm",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Necalevia_Normal.png",
+    "reward": [
+      "202",
+      "112086",
+      "112087",
+      "112088",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "20051101": {
+    "id": "20051101",
+    "name": "Tainted Water-Spouting Phantasm",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Necalevia_Big.png",
+    "reward": [
+      "202",
+      "112086",
+      "112087",
+      "112088",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "20051201": {
+    "id": "20051201",
+    "name": "Hydro Tulpa",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Narcissusborn_Normal_01.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104121",
+      "104122",
+      "104123",
+      "104124",
+      "113057",
+      "400022",
+      "400023",
+      "400042",
+      "400043",
+      "400047",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400132",
+      "400133"
+    ]
+  },
+  "20060101": {
+    "id": "20060101",
+    "name": "Hydro Specter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Sylph_Water_01.png",
+    "reward": [
+      "202",
+      "112053",
+      "112054",
+      "112055"
+    ]
+  },
+  "20060201": {
+    "id": "20060201",
+    "name": "Geo Specter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Sylph_Rock_01.png",
+    "reward": [
+      "202",
+      "112053",
+      "112054",
+      "112055"
+    ]
+  },
+  "20060301": {
+    "id": "20060301",
+    "name": "Anemo Specter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Sylph_Wind_01.png",
+    "reward": [
+      "202",
+      "112053",
+      "112054",
+      "112055"
+    ]
+  },
+  "20060401": {
+    "id": "20060401",
+    "name": "Cryo Specter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Sylph_Ice_01.png",
+    "reward": [
+      "202",
+      "112053",
+      "112054",
+      "112055"
+    ]
+  },
+  "20060501": {
+    "id": "20060501",
+    "name": "Electro Specter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Sylph_Electric_01.png",
+    "reward": [
+      "202",
+      "112053",
+      "112054",
+      "112055"
+    ]
+  },
+  "20060601": {
+    "id": "20060601",
+    "name": "Pyro Specter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Sylph_Fire_01.png",
+    "reward": [
+      "202",
+      "112053",
+      "112054",
+      "112055"
+    ]
+  },
+  "20060701": {
+    "id": "20060701",
+    "name": "Dendro Specter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Sylph_Grass_01.png",
+    "reward": [
+      "202",
+      "112053",
+      "112054",
+      "112055"
+    ]
+  },
+  "20070101": {
+    "id": "20070101",
+    "name": "Thunder Manifestation",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Raijin.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104141",
+      "104142",
+      "104143",
+      "104144",
+      "113029",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400137",
+      "400138"
+    ]
+  },
+  "21010101": {
+    "id": "21010101",
+    "name": "Hilichurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hili_None_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007"
+    ]
+  },
+  "21010201": {
+    "id": "21010201",
+    "name": "Hilichurl Fighter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hili_None_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007"
+    ]
+  },
+  "21010301": {
+    "id": "21010301",
+    "name": "Wooden Shield Hilichurl Guard",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hili_None_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007"
+    ]
+  },
+  "21010401": {
+    "id": "21010401",
+    "name": "Hilichurl Shooter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hili_None_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112011",
+      "112012",
+      "112013"
+    ]
+  },
+  "21010501": {
+    "id": "21010501",
+    "name": "Pyro Hilichurl Shooter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hili_Fire_Range.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112011",
+      "112012",
+      "112013"
+    ]
+  },
+  "21010601": {
+    "id": "21010601",
+    "name": "Hilichurl Grenadier",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hili_Fire_Range.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007"
+    ]
+  },
+  "21010701": {
+    "id": "21010701",
+    "name": "Hilichurl Berserker",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hili_Fire_Range.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007"
+    ]
+  },
+  "21010901": {
+    "id": "21010901",
+    "name": "Cryo Hilichurl Shooter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hili_Ice_Range.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112011",
+      "112012",
+      "112013"
+    ]
+  },
+  "21011001": {
+    "id": "21011001",
+    "name": "Electro Hilichurl Shooter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hili_Electric_Range.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112011",
+      "112012",
+      "112013"
+    ]
+  },
+  "21011201": {
+    "id": "21011201",
+    "name": "Rock Shield Hilichurl Guard",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hili_None_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007"
+    ]
+  },
+  "21011301": {
+    "id": "21011301",
+    "name": "Cryo Hilichurl Grenadier",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hili_Ice_Range.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007"
+    ]
+  },
+  "21011401": {
+    "id": "21011401",
+    "name": "Ice Shield Hilichurl Guard",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hili_None_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007"
+    ]
+  },
+  "21011501": {
+    "id": "21011501",
+    "name": "Unusual Hilichurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hili_Wei.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007"
+    ]
+  },
+  "21011601": {
+    "id": "21011601",
+    "name": "Electro Hilichurl Grenadier",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hili_Electric_Range.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007"
+    ]
+  },
+  "21020101": {
+    "id": "21020101",
+    "name": "Wooden Shieldwall Mitachurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Brute_None_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112014",
+      "112015",
+      "112016",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "21020201": {
+    "id": "21020201",
+    "name": "Blazing Axe Mitachurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Brute_None_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112014",
+      "112015",
+      "112016",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "21020301": {
+    "id": "21020301",
+    "name": "Rock Shieldwall Mitachurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Brute_None_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112014",
+      "112015",
+      "112016",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "21020401": {
+    "id": "21020401",
+    "name": "Frostarm Lawachurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Brute_Ice_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112014",
+      "112015",
+      "112016",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "21020501": {
+    "id": "21020501",
+    "name": "Stonehide Lawachurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Brute_Rock_None.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112014",
+      "112015",
+      "112016",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "21020601": {
+    "id": "21020601",
+    "name": "Ice Shieldwall Mitachurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Brute_None_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112014",
+      "112015",
+      "112016",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "21020701": {
+    "id": "21020701",
+    "name": "Crackling Axe Mitachurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Brute_None_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112014",
+      "112015",
+      "112016",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "21020801": {
+    "id": "21020801",
+    "name": "Thunderhelm Lawachurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Brute_Electric_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112014",
+      "112015",
+      "112016",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "21030101": {
+    "id": "21030101",
+    "name": "Hydro Samachurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Shaman_Water_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112008",
+      "112009",
+      "112010"
+    ]
+  },
+  "21030201": {
+    "id": "21030201",
+    "name": "Dendro Samachurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Shaman_Grass_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112008",
+      "112009",
+      "112010"
+    ]
+  },
+  "21030301": {
+    "id": "21030301",
+    "name": "Anemo Samachurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Shaman_Wind_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112008",
+      "112009",
+      "112010"
+    ]
+  },
+  "21030401": {
+    "id": "21030401",
+    "name": "Geo Samachurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Shaman_Rock_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112008",
+      "112009",
+      "112010"
+    ]
+  },
+  "21030501": {
+    "id": "21030501",
+    "name": "Cryo Samachurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Shaman_Ice_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112008",
+      "112009",
+      "112010"
+    ]
+  },
+  "21030601": {
+    "id": "21030601",
+    "name": "Electro Samachurl",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Shaman_Electric_01.png",
+    "reward": [
+      "202",
+      "112005",
+      "112006",
+      "112007",
+      "112008",
+      "112009",
+      "112010"
+    ]
+  },
+  "21040101": {
+    "id": "21040101",
+    "name": "Anemo Hilichurl Rogue",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hilistray_Wind.png",
+    "reward": [
+      "202",
+      "112077",
+      "112078",
+      "112079",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "21040201": {
+    "id": "21040201",
+    "name": "Hydro Hilichurl Rogue",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hilistray_Water.png",
+    "reward": [
+      "202",
+      "112077",
+      "112078",
+      "112079",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22010101": {
+    "id": "22010101",
+    "name": "Pyro Abyss Mage",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Abyss_Fire_01.png",
+    "reward": [
+      "202",
+      "112020",
+      "112021",
+      "112022",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22010201": {
+    "id": "22010201",
+    "name": "Cryo Abyss Mage",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Abyss_Ice_01.png",
+    "reward": [
+      "202",
+      "112020",
+      "112021",
+      "112022",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22010301": {
+    "id": "22010301",
+    "name": "Hydro Abyss Mage",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Abyss_Water_01.png",
+    "reward": [
+      "202",
+      "112020",
+      "112021",
+      "112022",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22010401": {
+    "id": "22010401",
+    "name": "Electro Abyss Mage",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Abyss_Electric_01.png",
+    "reward": [
+      "202",
+      "112020",
+      "112021",
+      "112022",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22020101": {
+    "id": "22020101",
+    "name": "Abyss Herald: Wicked Torrents",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Invoker_Herald_Water_01.png",
+    "reward": [
+      "202",
+      "112017",
+      "112018",
+      "112019",
+      "112020",
+      "112021",
+      "112022",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22020201": {
+    "id": "22020201",
+    "name": "Abyss Herald: Frost Fall",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Invoker_Herald_Ice.png",
+    "reward": [
+      "202",
+      "112017",
+      "112018",
+      "112019",
+      "112020",
+      "112021",
+      "112022",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22030101": {
+    "id": "22030101",
+    "name": "Abyss Lector: Violet Lightning",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Invoker_Deacon_Electric_01.png",
+    "reward": [
+      "202",
+      "112017",
+      "112018",
+      "112019",
+      "112020",
+      "112021",
+      "112022",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22030201": {
+    "id": "22030201",
+    "name": "Abyss Lector: Fathomless Flames",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Invoker_Deacon_Fire.png",
+    "reward": [
+      "202",
+      "112017",
+      "112018",
+      "112019",
+      "112020",
+      "112021",
+      "112022",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22040101": {
+    "id": "22040101",
+    "name": "Rockfond Rifthound Whelp",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hound_Kanis_Rock.png",
+    "reward": [
+      "202",
+      "112056",
+      "112057",
+      "112058",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22040201": {
+    "id": "22040201",
+    "name": "Thundercraven Rifthound Whelp",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hound_Kanis_Electric.png",
+    "reward": [
+      "202",
+      "112056",
+      "112057",
+      "112058",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22050101": {
+    "id": "22050101",
+    "name": "Rockfond Rifthound",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hound_Riftstalker_Rock.png",
+    "reward": [
+      "202",
+      "112056",
+      "112057",
+      "112058",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22050201": {
+    "id": "22050201",
+    "name": "Thundercraven Rifthound",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hound_Riftstalker_Electric.png",
+    "reward": [
+      "202",
+      "112056",
+      "112057",
+      "112058",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22060101": {
+    "id": "22060101",
+    "name": "Golden Wolflord",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hound_Planelurker.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104171",
+      "104172",
+      "104173",
+      "104174",
+      "113030",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "22070101": {
+    "id": "22070101",
+    "name": "Shadowy Husk: Standard Bearer",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire.png",
+    "reward": [
+      "202",
+      "112017",
+      "112018",
+      "112019",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22070201": {
+    "id": "22070201",
+    "name": "Shadowy Husk: Line Breaker",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_ForlornVessel_Strong_Lance_Water.png",
+    "reward": [
+      "202",
+      "112017",
+      "112018",
+      "112019",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22070301": {
+    "id": "22070301",
+    "name": "Shadowy Husk: Defender",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_ForlornVessel_Strong_Chargebow_Ice.png",
+    "reward": [
+      "202",
+      "112017",
+      "112018",
+      "112019",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22080101": {
+    "id": "22080101",
+    "name": "Black Serpent Knight: Windcutter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Darkwraith_Strong_Wind.png",
+    "reward": [
+      "202",
+      "112017",
+      "112018",
+      "112019",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22080201": {
+    "id": "22080201",
+    "name": "Black Serpent Knight: Rockbreaker Ax",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Darkwraith_Fat_Rock.png",
+    "reward": [
+      "202",
+      "112017",
+      "112018",
+      "112019",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22100501": {
+    "id": "22100501",
+    "name": "Iniquitous Baptist",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Invoker_Archdeacon.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104111",
+      "104112",
+      "104113",
+      "104114",
+      "104121",
+      "104122",
+      "104123",
+      "104124",
+      "104141",
+      "104142",
+      "104143",
+      "104144",
+      "104161",
+      "104162",
+      "104163",
+      "104164",
+      "113045",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400128",
+      "400133",
+      "400138",
+      "400148"
+    ]
+  },
+  "22110101": {
+    "id": "22110101",
+    "name": "Large Shatterstone Breacher Primus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Ovacua_Order_01.png",
+    "reward": [
+      "202",
+      "112089",
+      "112090",
+      "112091",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22110201": {
+    "id": "22110201",
+    "name": "Shatterstone Breacher Primus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Ovacua_Order_02.png",
+    "reward": [
+      "202",
+      "112089",
+      "112090",
+      "112091",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22110301": {
+    "id": "22110301",
+    "name": "Large Overgrown Breacher Primus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Ovacua_Chaos_01.png",
+    "reward": [
+      "202",
+      "112089",
+      "112090",
+      "112091",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "22110401": {
+    "id": "22110401",
+    "name": "Overgrown Breacher Primus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Ovacua_Chaos_02.png",
+    "reward": [
+      "202",
+      "112089",
+      "112090",
+      "112091",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "23010101": {
+    "id": "23010101",
+    "name": "Fatui Skirmisher - Cryogunner Legionnaire",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01.png",
+    "reward": [
+      "202",
+      "112032",
+      "112033",
+      "112034"
+    ]
+  },
+  "23010201": {
+    "id": "23010201",
+    "name": "Fatui Skirmisher - Hydrogunner Legionnaire",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Water_01.png",
+    "reward": [
+      "202",
+      "112032",
+      "112033",
+      "112034"
+    ]
+  },
+  "23010301": {
+    "id": "23010301",
+    "name": "Fatui Skirmisher - Electrohammer Vanguard",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01.png",
+    "reward": [
+      "202",
+      "112032",
+      "112033",
+      "112034"
+    ]
+  },
+  "23010401": {
+    "id": "23010401",
+    "name": "Fatui Skirmisher - Geochanter Bracer",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01.png",
+    "reward": [
+      "202",
+      "112032",
+      "112033",
+      "112034"
+    ]
+  },
+  "23010501": {
+    "id": "23010501",
+    "name": "Fatui Skirmisher - Anemoboxer Vanguard",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Skirmisher_Male_Strong_Gloves_Wind_01.png",
+    "reward": [
+      "202",
+      "112032",
+      "112033",
+      "112034"
+    ]
+  },
+  "23010601": {
+    "id": "23010601",
+    "name": "Fatui Skirmisher - Pyroslinger Bracer",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01.png",
+    "reward": [
+      "202",
+      "112032",
+      "112033",
+      "112034"
+    ]
+  },
+  "23020101": {
+    "id": "23020101",
+    "name": "Fatui Pyro Agent",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fatuus_Fire_01.png",
+    "reward": [
+      "202",
+      "112029",
+      "112030",
+      "112031",
+      "112032",
+      "112033",
+      "112034",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "23030101": {
+    "id": "23030101",
+    "name": "Fatui Electro Cicin Mage",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fatuus_Summoner_01.png",
+    "reward": [
+      "202",
+      "112026",
+      "112027",
+      "112028",
+      "112032",
+      "112033",
+      "112034",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "23040101": {
+    "id": "23040101",
+    "name": "Fatui Cryo Cicin Mage",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fatuus_Mage_Ice_01.png",
+    "reward": [
+      "202",
+      "112026",
+      "112027",
+      "112028",
+      "112032",
+      "112033",
+      "112034",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "23050101": {
+    "id": "23050101",
+    "name": "Mirror Maiden",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fatuus_Maiden_Water.png",
+    "reward": [
+      "202",
+      "112050",
+      "112051",
+      "112052",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "23060101": {
+    "id": "23060101",
+    "name": "Frost Operative",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fatuus_Escadron_Ice.png",
+    "reward": [
+      "202",
+      "112092",
+      "112093",
+      "112094",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "23060201": {
+    "id": "23060201",
+    "name": "Wind Operative",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fatuus_Escadron_Wind.png",
+    "reward": [
+      "202",
+      "112092",
+      "112093",
+      "112094",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "24010101": {
+    "id": "24010101",
+    "name": "Ruin Guard",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Defender_Noner_01.png",
+    "reward": [
+      "202",
+      "112023",
+      "112024",
+      "112025",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "24010201": {
+    "id": "24010201",
+    "name": "Ruin Hunter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Formathr_None.png",
+    "reward": [
+      "202",
+      "112023",
+      "112024",
+      "112025",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "24010301": {
+    "id": "24010301",
+    "name": "Ruin Grader",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Konungmathr.png",
+    "reward": [
+      "202",
+      "112023",
+      "112024",
+      "112025",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "24010401": {
+    "id": "24010401",
+    "name": "Ruin Serpent",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Nithhoggr_None.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104171",
+      "104172",
+      "104173",
+      "104174",
+      "113035",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "24020101": {
+    "id": "24020101",
+    "name": "Ruin Cruiser",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Apparatus_Enigma_BionicDrone.png",
+    "reward": [
+      "202",
+      "112047",
+      "112048",
+      "112049",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "24020201": {
+    "id": "24020201",
+    "name": "Ruin Destroyer",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Apparatus_Enigma_BionicFlora.png",
+    "reward": [
+      "202",
+      "112047",
+      "112048",
+      "112049",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "24020301": {
+    "id": "24020301",
+    "name": "Ruin Defender",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Apparatus_Enigma_BionicInsecta.png",
+    "reward": [
+      "202",
+      "112047",
+      "112048",
+      "112049",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "24020401": {
+    "id": "24020401",
+    "name": "Ruin Scout",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Apparatus_Enigma_BionicNettler.png",
+    "reward": [
+      "202",
+      "112047",
+      "112048",
+      "112049",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "24021101": {
+    "id": "24021101",
+    "name": "Perpetual Mechanical Array",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Apparatus_Perpetual.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104161",
+      "104162",
+      "104163",
+      "104164",
+      "104171",
+      "104172",
+      "104173",
+      "104174",
+      "113023",
+      "400022",
+      "400023",
+      "400042",
+      "400043",
+      "400052",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400147",
+      "400148"
+    ]
+  },
+  "24030101": {
+    "id": "24030101",
+    "name": "Ruin Drake: Skywatch",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Gargoyle.png",
+    "reward": [
+      "202",
+      "112068",
+      "112069",
+      "112070",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "24030201": {
+    "id": "24030201",
+    "name": "Ruin Drake: Earthguard",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Gargoyle.png",
+    "reward": [
+      "202",
+      "112068",
+      "112069",
+      "112070",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "24030301": {
+    "id": "24030301",
+    "name": "Aeonblight Drake",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Gargoyle_Fafnir.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104121",
+      "104122",
+      "104123",
+      "104124",
+      "104161",
+      "104162",
+      "104163",
+      "104164",
+      "113038",
+      "400022",
+      "400023",
+      "400042",
+      "400043",
+      "400052",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400147",
+      "400148"
+    ]
+  },
+  "24040101": {
+    "id": "24040101",
+    "name": "Primal Construct: Repulsor",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Monolith_Ordinator.png",
+    "reward": [
+      "202",
+      "112071",
+      "112072",
+      "112073",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "24040201": {
+    "id": "24040201",
+    "name": "Primal Construct: Reshaper",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Monolith_Ordinator.png",
+    "reward": [
+      "202",
+      "112071",
+      "112072",
+      "112073",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "24040301": {
+    "id": "24040301",
+    "name": "Primal Construct: Prospector",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Monolith_Ordinator.png",
+    "reward": [
+      "202",
+      "112071",
+      "112072",
+      "112073",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "24050101": {
+    "id": "24050101",
+    "name": "Algorithm of Semi-Intransient Matrix of Overseer Network",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Monolith_Starchild.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104111",
+      "104112",
+      "104113",
+      "104114",
+      "104151",
+      "104152",
+      "104153",
+      "104154",
+      "113039",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400047",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400127",
+      "400128"
+    ]
+  },
+  "24060401": {
+    "id": "24060401",
+    "name": "Geological Survey Mek",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MachinaIustitia_Probe.png",
+    "reward": [
+      "202",
+      "112083",
+      "112084",
+      "112085"
+    ]
+  },
+  "24068101": {
+    "id": "24068101",
+    "name": "Recon Log Mek",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MachinaIustitia_Sentry.png",
+    "reward": [
+      "202",
+      "112083",
+      "112084",
+      "112085"
+    ]
+  },
+  "24068201": {
+    "id": "24068201",
+    "name": "Arithmetic Enhancer Mek",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MachinaIustitia_Pylon.png",
+    "reward": [
+      "202",
+      "112083",
+      "112084",
+      "112085"
+    ]
+  },
+  "24068301": {
+    "id": "24068301",
+    "name": "Underwater Survey Mek",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MachinaIustitia_Recon.png",
+    "reward": [
+      "202",
+      "112083",
+      "112084",
+      "112085"
+    ]
+  },
+  "24068501": {
+    "id": "24068501",
+    "name": "Underwater Patrol Mek",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MachinaIustitia_Nautilus.png",
+    "reward": [
+      "202",
+      "112083",
+      "112084",
+      "112085"
+    ]
+  },
+  "24068601": {
+    "id": "24068601",
+    "name": "Deepwater Assault Mek",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MachinaIustitia_Frigate.png",
+    "reward": [
+      "202",
+      "112083",
+      "112084",
+      "112085"
+    ]
+  },
+  "24068701": {
+    "id": "24068701",
+    "name": "Nimble Harvester Mek",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MachinaIustitia_Assimilator.png",
+    "reward": [
+      "202",
+      "112083",
+      "112084",
+      "112085"
+    ]
+  },
+  "24068801": {
+    "id": "24068801",
+    "name": "Assault Specialist Mek",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MachinaIustitia_Ruggiero_01.png",
+    "reward": [
+      "202",
+      "112083",
+      "112084",
+      "112085"
+    ]
+  },
+  "24068901": {
+    "id": "24068901",
+    "name": "Suppression Specialist Mek",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MachinaIustitia_Ruggiero_02.png",
+    "reward": [
+      "202",
+      "112083",
+      "112084",
+      "112085"
+    ]
+  },
+  "24069001": {
+    "id": "24069001",
+    "name": "Annihilation Specialist Mek",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MachinaIustitia_Bradamante.png",
+    "reward": [
+      "202",
+      "112083",
+      "112084",
+      "112085"
+    ]
+  },
+  "24069101": {
+    "id": "24069101",
+    "name": "Area Alert Mek",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MachinaIustitia_LengthShifter.png",
+    "reward": [
+      "202",
+      "112083",
+      "112084",
+      "112085"
+    ]
+  },
+  "24069201": {
+    "id": "24069201",
+    "name": "Construction Specialist Mek",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MachinaIustitia_Excavator.png",
+    "reward": [
+      "202",
+      "112083",
+      "112084",
+      "112085"
+    ]
+  },
+  "24070301": {
+    "id": "24070301",
+    "name": "Icewind Suite",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MachinaIustitia_Nutcracker.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104151",
+      "104152",
+      "104153",
+      "104154",
+      "104161",
+      "104162",
+      "104163",
+      "104164",
+      "113049",
+      "113050",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400052",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400147",
+      "400148"
+    ]
+  },
+  "24080101": {
+    "id": "24080101",
+    "name": "Experimental Field Generator",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MachinaIustitia_Gravitas.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104171",
+      "104172",
+      "104173",
+      "104174",
+      "113052",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "25010201": {
+    "id": "25010201",
+    "name": "Treasure Hoarders: Scout",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Thoarder_Male_Rogue_01.png",
+    "reward": [
+      "202",
+      "112035",
+      "112036",
+      "112037"
+    ]
+  },
+  "25010301": {
+    "id": "25010301",
+    "name": "Treasure Hoarders: Pyro Potioneer",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Thoarder_Male_Chemist_Fire_01.png",
+    "reward": [
+      "202",
+      "112035",
+      "112036",
+      "112037"
+    ]
+  },
+  "25010401": {
+    "id": "25010401",
+    "name": "Treasure Hoarders: Hydro Potioneer",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Thoarder_Male_Chemist_Water_01.png",
+    "reward": [
+      "202",
+      "112035",
+      "112036",
+      "112037"
+    ]
+  },
+  "25010501": {
+    "id": "25010501",
+    "name": "Treasure Hoarders: Electro Potioneer",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Thoarder_Male_Chemist_Electric_01.png",
+    "reward": [
+      "202",
+      "112035",
+      "112036",
+      "112037"
+    ]
+  },
+  "25010601": {
+    "id": "25010601",
+    "name": "Treasure Hoarders: Cryo Potioneer",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Thoarder_Male_Chemist_Ice_01.png",
+    "reward": [
+      "202",
+      "112035",
+      "112036",
+      "112037"
+    ]
+  },
+  "25010701": {
+    "id": "25010701",
+    "name": "Treasure Hoarders: Handyman",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Thoarder_Male_Rogue_Fat_01.png",
+    "reward": [
+      "202",
+      "112035",
+      "112036",
+      "112037"
+    ]
+  },
+  "25020201": {
+    "id": "25020201",
+    "name": "Treasure Hoarders: Marksman",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Thoarder_Male_Hunter_01.png",
+    "reward": [
+      "202",
+      "112035",
+      "112036",
+      "112037"
+    ]
+  },
+  "25030201": {
+    "id": "25030201",
+    "name": "Treasure Hoarders: Gravedigger",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Thoarder_Male_Rogue_Fat_02.png",
+    "reward": [
+      "202",
+      "112035",
+      "112036",
+      "112037"
+    ]
+  },
+  "25030301": {
+    "id": "25030301",
+    "name": "Treasure Hoarders: Seaman",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Thoarder_Male_Sailor_01.png",
+    "reward": [
+      "202",
+      "112035",
+      "112036",
+      "112037"
+    ]
+  },
+  "25060101": {
+    "id": "25060101",
+    "name": "Treasure Hoarders: Pugilist",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Thoarder_MuscleMan_Boxer_01.png",
+    "reward": [
+      "202",
+      "112035",
+      "112036",
+      "112037"
+    ]
+  },
+  "25070101": {
+    "id": "25070101",
+    "name": "Treasure Hoarders: Crusher",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Thoarder_MuscleMan_Miner_01.png",
+    "reward": [
+      "202",
+      "112035",
+      "112036",
+      "112037"
+    ]
+  },
+  "25080101": {
+    "id": "25080101",
+    "name": "Nobushi: Jintouban",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Samurai_Ronin_01.png",
+    "reward": [
+      "202",
+      "112044",
+      "112045",
+      "112046"
+    ]
+  },
+  "25080201": {
+    "id": "25080201",
+    "name": "Nobushi: Hitsukeban",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Samurai_Ronin_02.png",
+    "reward": [
+      "202",
+      "112044",
+      "112045",
+      "112046"
+    ]
+  },
+  "25080301": {
+    "id": "25080301",
+    "name": "Nobushi: Kikouban",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Samurai_Ronin_03.png",
+    "reward": [
+      "202",
+      "112044",
+      "112045",
+      "112046"
+    ]
+  },
+  "25090101": {
+    "id": "25090101",
+    "name": "Maguu Kenki",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Samurai_Ningyo.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104151",
+      "104152",
+      "104153",
+      "104154",
+      "104161",
+      "104162",
+      "104163",
+      "104164",
+      "113022",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400052",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "25100101": {
+    "id": "25100101",
+    "name": "Kairagi: Dancing Thunder",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Samurai_Kairagi_01.png",
+    "reward": [
+      "202",
+      "112044",
+      "112045",
+      "112046"
+    ]
+  },
+  "25100201": {
+    "id": "25100201",
+    "name": "Kairagi: Fiery Might",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Samurai_Kairagi_02.png",
+    "reward": [
+      "202",
+      "112044",
+      "112045",
+      "112046"
+    ]
+  },
+  "25210101": {
+    "id": "25210101",
+    "name": "Eremite Axe Vanguard",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Eremite_Female_Hatchet.png",
+    "reward": [
+      "202",
+      "112065",
+      "112066",
+      "112067"
+    ]
+  },
+  "25210201": {
+    "id": "25210201",
+    "name": "Eremite Crossbow",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Eremite_Male_Standard_Crossbow.png",
+    "reward": [
+      "202",
+      "112065",
+      "112066",
+      "112067"
+    ]
+  },
+  "25210301": {
+    "id": "25210301",
+    "name": "Eremite Ravenbeak Halberdier",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Eremite_Male_Standard_Pole.png",
+    "reward": [
+      "202",
+      "112065",
+      "112066",
+      "112067"
+    ]
+  },
+  "25210401": {
+    "id": "25210401",
+    "name": "Eremite Linebreaker",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Eremite_MuscleMan_Gloves.png",
+    "reward": [
+      "202",
+      "112065",
+      "112066",
+      "112067"
+    ]
+  },
+  "25210501": {
+    "id": "25210501",
+    "name": "Eremite Sword-Dancer",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Eremite_MuscleMan_Simitar.png",
+    "reward": [
+      "202",
+      "112065",
+      "112066",
+      "112067"
+    ]
+  },
+  "25310101": {
+    "id": "25310101",
+    "name": "Eremite Desert Clearwater",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Eremite_Female_Slim_PushDagger.png",
+    "reward": [
+      "202",
+      "112065",
+      "112066",
+      "112067"
+    ]
+  },
+  "25310201": {
+    "id": "25310201",
+    "name": "Eremite Sunfrost",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Eremite_Male_Standard_Glaive.png",
+    "reward": [
+      "202",
+      "112065",
+      "112066",
+      "112067"
+    ]
+  },
+  "25310301": {
+    "id": "25310301",
+    "name": "Eremite Daythunder",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Eremite_Male_Standard_Polearm.png",
+    "reward": [
+      "202",
+      "112065",
+      "112066",
+      "112067"
+    ]
+  },
+  "25410101": {
+    "id": "25410101",
+    "name": "Eremite Stone Enchanter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Eremite_Male_Strong_Katar.png",
+    "reward": [
+      "202",
+      "112065",
+      "112066",
+      "112067"
+    ]
+  },
+  "25410201": {
+    "id": "25410201",
+    "name": "Eremite Galehunter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Eremite_Female_Standard_Longbow.png",
+    "reward": [
+      "202",
+      "112065",
+      "112066",
+      "112067"
+    ]
+  },
+  "25410301": {
+    "id": "25410301",
+    "name": "Eremite Scorching Loremaster",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Eremite_Female_Standard_Oracle.png",
+    "reward": [
+      "202",
+      "112065",
+      "112066",
+      "112067"
+    ]
+  },
+  "25410401": {
+    "id": "25410401",
+    "name": "Eremite Floral Ring-Dancer",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Eremite_Female_Standard_Dancer.png",
+    "reward": [
+      "202",
+      "112065",
+      "112066",
+      "112067"
+    ]
+  },
+  "26010101": {
+    "id": "26010101",
+    "name": "Cryo Whopperflower",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Mimik_Ice.png",
+    "reward": [
+      "202",
+      "112038",
+      "112039",
+      "112040"
+    ]
+  },
+  "26010201": {
+    "id": "26010201",
+    "name": "Pyro Whopperflower",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Mimik_Fire.png",
+    "reward": [
+      "202",
+      "112038",
+      "112039",
+      "112040"
+    ]
+  },
+  "26010301": {
+    "id": "26010301",
+    "name": "Electro Whopperflower",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Mimik_Electric.png",
+    "reward": [
+      "202",
+      "112038",
+      "112039",
+      "112040"
+    ]
+  },
+  "26020101": {
+    "id": "26020101",
+    "name": "Cryo Regisvine",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Regisvine_Ice.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104161",
+      "104162",
+      "104163",
+      "104164",
+      "113010",
+      "400022",
+      "400023",
+      "400042",
+      "400043",
+      "400052",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400147",
+      "400148"
+    ]
+  },
+  "26020201": {
+    "id": "26020201",
+    "name": "Pyro Regisvine",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Regisvine_Fire.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104111",
+      "104112",
+      "104113",
+      "104114",
+      "113011",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400047",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400127",
+      "400128"
+    ]
+  },
+  "26020301": {
+    "id": "26020301",
+    "name": "Electro Regisvine",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Regisvine_Electric.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104141",
+      "104142",
+      "104143",
+      "104144",
+      "113037",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400137",
+      "400138"
+    ]
+  },
+  "26030101": {
+    "id": "26030101",
+    "name": "Geovishap Hatchling",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Wyrm_Rock.png",
+    "reward": [
+      "202",
+      "112041",
+      "112042",
+      "112043",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "26040101": {
+    "id": "26040101",
+    "name": "Geovishap",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Drake_Rock.png",
+    "reward": [
+      "202",
+      "112041",
+      "112042",
+      "112043",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "26050101": {
+    "id": "26050101",
+    "name": "Primo Geovishap",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Drake_Primo_Rock.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104111",
+      "104112",
+      "104113",
+      "104114",
+      "104121",
+      "104122",
+      "104123",
+      "104124",
+      "104141",
+      "104142",
+      "104143",
+      "104144",
+      "104161",
+      "104162",
+      "104163",
+      "104164",
+      "104171",
+      "104172",
+      "104173",
+      "104174",
+      "113016",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400128",
+      "400133",
+      "400138",
+      "400148"
+    ]
+  },
+  "26050601": {
+    "id": "26050601",
+    "name": "Primordial Bathysmal Vishap",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Drake_Deepsea_Water.png",
+    "reward": [
+      "202",
+      "112041",
+      "112042",
+      "112043",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "26050701": {
+    "id": "26050701",
+    "name": "Rimebiter Bathysmal Vishap",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Drake_Deepsea_Ice.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104141",
+      "104142",
+      "104143",
+      "104144",
+      "104161",
+      "104162",
+      "104163",
+      "104164",
+      "113031",
+      "400022",
+      "400023",
+      "400042",
+      "400043",
+      "400052",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400147",
+      "400148"
+    ]
+  },
+  "26050801": {
+    "id": "26050801",
+    "name": "Bolteater Bathysmal Vishap",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Drake_Deepsea_Electric.png",
+    "reward": [
+      "202",
+      "112041",
+      "112042",
+      "112043",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "26060101": {
+    "id": "26060101",
+    "name": "Electro Cicin",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Cicin_Thunder_01.png",
+    "reward": [
+      "202",
+      "112041",
+      "112042",
+      "112043",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "26060201": {
+    "id": "26060201",
+    "name": "Hydro Cicin",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Cicin_Water_01.png",
+    "reward": [
+      "202",
+      "112041",
+      "112042",
+      "112043",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "26060301": {
+    "id": "26060301",
+    "name": "Cryo Cicin",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Cicin_Ice_01.png",
+    "reward": [
+      "202",
+      "112041",
+      "112042",
+      "112043",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "26090101": {
+    "id": "26090101",
+    "name": "Floating Hydro Fungus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Un_Gamma_Water.png",
+    "reward": [
+      "202",
+      "112041",
+      "112042",
+      "112043",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "26090201": {
+    "id": "26090201",
+    "name": "Floating Dendro Fungus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Un_Delta_Grass.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26090301": {
+    "id": "26090301",
+    "name": "Floating Anemo Fungus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Un_Delta_Wind.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26090401": {
+    "id": "26090401",
+    "name": "Whirling Electro Fungus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Trois_Epsilon_Electric.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26090501": {
+    "id": "26090501",
+    "name": "Whirling Cryo Fungus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Trois_Alpha_Ice.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26090601": {
+    "id": "26090601",
+    "name": "Whirling Pyro Fungus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Trois_Gamma_Fire.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26090701": {
+    "id": "26090701",
+    "name": "Stretchy Pyro Fungus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Deux_Alpha_Fire.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26090801": {
+    "id": "26090801",
+    "name": "Stretchy Anemo Fungus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Deux_Epsilon_Wind.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26090901": {
+    "id": "26090901",
+    "name": "Stretchy Geo Fungus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Deux_Beta_Rock.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26091001": {
+    "id": "26091001",
+    "name": "Stretchy Electro Fungus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Deux_Delta_Electric.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26100101": {
+    "id": "26100101",
+    "name": "Consecrated Horned Crocodile",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Gator_Sacred_Water.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26100201": {
+    "id": "26100201",
+    "name": "Consecrated Fanged Beast",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Panther_Sacred_Grass.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26100301": {
+    "id": "26100301",
+    "name": "Consecrated Red Vulture",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Vulture_Sacred_Fire.png",
+    "reward": [
+      "202",
+      "112074",
+      "112075",
+      "112076",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "26100401": {
+    "id": "26100401",
+    "name": "Consecrated Scorpion",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Scorpion_Sacred_Electric.png",
+    "reward": [
+      "202",
+      "112074",
+      "112075",
+      "112076",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "26100501": {
+    "id": "26100501",
+    "name": "Consecrated Flying Serpent",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Chrysopelea_Sacred_Wind.png",
+    "reward": [
+      "202",
+      "112074",
+      "112075",
+      "112076",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "26110101": {
+    "id": "26110101",
+    "name": "Jadeplume Terrorshroom",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Raptor.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104131",
+      "104132",
+      "104133",
+      "104134",
+      "113036",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400047",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "26120101": {
+    "id": "26120101",
+    "name": "Winged Dendroshroom",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Amanita_Unu_Anudatta_Grass.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26120201": {
+    "id": "26120201",
+    "name": "Winged Cryoshroom",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Amanita_Unu_Svarita_Ice.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26120301": {
+    "id": "26120301",
+    "name": "Grounded Hydroshroom",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26120401": {
+    "id": "26120401",
+    "name": "Grounded Geoshroom",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Fungus_Amanita_Du_Udatta_Rock.png",
+    "reward": [
+      "202",
+      "112059",
+      "112060",
+      "112061",
+      "112062",
+      "112063",
+      "112064"
+    ]
+  },
+  "26130101": {
+    "id": "26130101",
+    "name": "Setekh Wenut",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Sandworm.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104151",
+      "104152",
+      "104153",
+      "104154",
+      "113044",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400052",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "26151001": {
+    "id": "26151001",
+    "name": "Hunter's Ray",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MantaRay_Larva_01.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26151101": {
+    "id": "26151101",
+    "name": "Hunter's Ray",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_MantaRay_Larva_02.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26152101": {
+    "id": "26152101",
+    "name": "Armored Crab",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_HermitCrab_Larva_01.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26152201": {
+    "id": "26152201",
+    "name": "Armored Crab",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_HermitCrab_Larva_02.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26153101": {
+    "id": "26153101",
+    "name": "Blubberbeast",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Seal_Larva_01.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26154101": {
+    "id": "26154101",
+    "name": "Hat Jellyfish",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_JellyFish_Larva_01.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26154201": {
+    "id": "26154201",
+    "name": "Hat Jellyfish",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_JellyFish_Larva_02.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26155101": {
+    "id": "26155101",
+    "name": "Bubbly Seahorse",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_SeaHorse_Larva_01.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26155201": {
+    "id": "26155201",
+    "name": "Bubbly Seahorse",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_SeaHorse_Larva_02.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26155301": {
+    "id": "26155301",
+    "name": "Bubbly Seahorse",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_SeaHorse_Larva_03.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26156101": {
+    "id": "26156101",
+    "name": "Ball Octopus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Octopus_Larva_01.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26156201": {
+    "id": "26156201",
+    "name": "Ball Octopus",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Octopus_Larva_02.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26157101": {
+    "id": "26157101",
+    "name": "Angelic Sea Hare",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Aplysia_Larva_01.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26157201": {
+    "id": "26157201",
+    "name": "Angelic Sea Hare",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Aplysia_Larva_02.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26160101": {
+    "id": "26160101",
+    "name": "Sternshield Crab",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_HermitCrab_Mature.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26160201": {
+    "id": "26160201",
+    "name": "Cherubic Sea Hare",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Aplysia_Mature.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26160301": {
+    "id": "26160301",
+    "name": "Bubbler Seahorse",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_SeaHorse_Mature.png",
+    "reward": [
+      "202",
+      "112080",
+      "112081",
+      "112082"
+    ]
+  },
+  "26160302": {
+    "id": "26160302",
+    "name": "Emperor of Fire and Iron",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_HermitCrab_Primo.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104111",
+      "104112",
+      "104113",
+      "104114",
+      "113051",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400047",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400127",
+      "400128"
+    ]
+  },
+  "26180101": {
+    "id": "26180101",
+    "name": "Millennial Pearl Seahorse",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_SeaHorse_Primo_Electric.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104141",
+      "104142",
+      "104143",
+      "104144",
+      "113053",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062",
+      "400088",
+      "400089",
+      "400098",
+      "400099",
+      "400137",
+      "400138"
+    ]
+  },
+  "26190101": {
+    "id": "26190101",
+    "name": "Solitary Suanni",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Hermit.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "104121",
+      "104122",
+      "104123",
+      "104124",
+      "104151",
+      "104152",
+      "104153",
+      "104154",
+      "113058",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400052",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "26190201": {
+    "id": "26190201",
+    "name": "Xuanwen Beast",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Striped.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010101": {
+    "id": "28010101",
+    "name": "Golden Crab",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Crab_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010102": {
+    "id": "28010102",
+    "name": "Sun Crab",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Crab_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010103": {
+    "id": "28010103",
+    "name": "Ocean Crab",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Crab_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010104": {
+    "id": "28010104",
+    "name": "General Crab",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Crab_04.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010105": {
+    "id": "28010105",
+    "name": "Pale Red Crab",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Crab_05.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010201": {
+    "id": "28010201",
+    "name": "Blue Horned Lizard",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Lizard_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010202": {
+    "id": "28010202",
+    "name": "Red Horned Lizard",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Lizard_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010203": {
+    "id": "28010203",
+    "name": "Green Horned Lizard",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Lizard_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010204": {
+    "id": "28010204",
+    "name": "Sunset Loach",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Salamander_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010205": {
+    "id": "28010205",
+    "name": "Golden Loach",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Salamander_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010206": {
+    "id": "28010206",
+    "name": "Sunny Loach",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Salamander_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010207": {
+    "id": "28010207",
+    "name": "Marrow Lizard",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Lizard_04.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010208": {
+    "id": "28010208",
+    "name": "Red Tailed Lizard",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Lizard_05.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010301": {
+    "id": "28010301",
+    "name": "Frog",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Frog_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010302": {
+    "id": "28010302",
+    "name": "Mud Frog",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Frog_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010303": {
+    "id": "28010303",
+    "name": "Blue Frog",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Frog_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010304": {
+    "id": "28010304",
+    "name": "Forest Tree Frog",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Frog_04.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010401": {
+    "id": "28010401",
+    "name": "Adorned Unagi",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Eel_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010402": {
+    "id": "28010402",
+    "name": "Deep Sea Unagi",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Eel_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010403": {
+    "id": "28010403",
+    "name": "Red-Finned Unagi",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Eel_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28010404": {
+    "id": "28010404",
+    "name": "Quicksand Eel",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Eel_04.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020101": {
+    "id": "28020101",
+    "name": "Snow Fox",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Fox_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020102": {
+    "id": "28020102",
+    "name": "Crimson Fox",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Fox_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020108": {
+    "id": "28020108",
+    "name": "Desert Fox",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Fox_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020201": {
+    "id": "28020201",
+    "name": "Squirrel",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Squirrel_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020301": {
+    "id": "28020301",
+    "name": "Forest Boar",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Boar_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020303": {
+    "id": "28020303",
+    "name": "Snowboar",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Boar_04.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020304": {
+    "id": "28020304",
+    "name": "Great Snowboar King",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Boar_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020313": {
+    "id": "28020313",
+    "name": "Shroomboar",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Boar_Grass.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020401": {
+    "id": "28020401",
+    "name": "Northland Hound",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_DogPrick_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020402": {
+    "id": "28020402",
+    "name": "Forest-Patrol Hound",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_DogPrick_04.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020403": {
+    "id": "28020403",
+    "name": "Shiba",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_DogPrick_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020404": {
+    "id": "28020404",
+    "name": "Black-Back Hound",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_DogPrick_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020411": {
+    "id": "28020411",
+    "name": "Chestnut Hunting Hound",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Dog_DropEar_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020412": {
+    "id": "28020412",
+    "name": "Glittergray Hunting Hound",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Dog_DropEar_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020413": {
+    "id": "28020413",
+    "name": "Amber Hunting Hound",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Dog_DropEar_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020501": {
+    "id": "28020501",
+    "name": "Sapphire",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Cat_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020502": {
+    "id": "28020502",
+    "name": "Jade-Eyed Cat",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Cat_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020503": {
+    "id": "28020503",
+    "name": "Gray Snow Cat",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Cat_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020504": {
+    "id": "28020504",
+    "name": "Northland Cat",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Cat_04.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020505": {
+    "id": "28020505",
+    "name": "Tiger-Striped Cat",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Cat_05.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020506": {
+    "id": "28020506",
+    "name": "Sheriff Cat",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Cat_06.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020507": {
+    "id": "28020507",
+    "name": "Black Cat",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Cat_07.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020601": {
+    "id": "28020601",
+    "name": "Snow Weasel",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Marten_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020602": {
+    "id": "28020602",
+    "name": "Red-Tailed Weasel",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Marten_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020603": {
+    "id": "28020603",
+    "name": "Boot Weasel",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Marten_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020604": {
+    "id": "28020604",
+    "name": "Masked Weasel",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Marten_04.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020605": {
+    "id": "28020605",
+    "name": "Bluethunder Weasel",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Marten_05.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020701": {
+    "id": "28020701",
+    "name": "Kitsune",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Vulpes_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28020801": {
+    "id": "28020801",
+    "name": "Bake-Danuki",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Inu_Tanuki_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28021001": {
+    "id": "28021001",
+    "name": "Tent Tortoise",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Tortoise_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28021002": {
+    "id": "28021002",
+    "name": "Jadestone Turtle",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Tortoise_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28021101": {
+    "id": "28021101",
+    "name": "Lady Poodle",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_FontainePoddle_Lady_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28021102": {
+    "id": "28021102",
+    "name": "Guard Poodle",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_FontainePoddle_Guard_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28021103": {
+    "id": "28021103",
+    "name": "Gentleman Poodle",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_FontainePoddle_Gentleman_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28021201": {
+    "id": "28021201",
+    "name": "Leisurely Otter",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Beaver_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28022101": {
+    "id": "28022101",
+    "name": "Fluff-Fleece Goat",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Goat_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030101": {
+    "id": "28030101",
+    "name": "Azure Crane",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Crane_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030102": {
+    "id": "28030102",
+    "name": "Violet Ibis",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Crane_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030104": {
+    "id": "28030104",
+    "name": "Sacred Ibis",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Crane_Lbis_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030201": {
+    "id": "28030201",
+    "name": "Brownwing Falcon",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Falcon_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030202": {
+    "id": "28030202",
+    "name": "Umbertail Falcon",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Falcon_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030203": {
+    "id": "28030203",
+    "name": "Lapis Glede",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Falcon_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030204": {
+    "id": "28030204",
+    "name": "Silkwhite Falcon",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Falcon_04.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030301": {
+    "id": "28030301",
+    "name": "White Pigeon",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Pigeon_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030302": {
+    "id": "28030302",
+    "name": "Brightcrown Pigeon",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Pigeon_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030303": {
+    "id": "28030303",
+    "name": "Graywing Pigeon",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Pigeon_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030304": {
+    "id": "28030304",
+    "name": "Crimsonflank Pigeon",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Pigeon_04.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030305": {
+    "id": "28030305",
+    "name": "Black King Pigeon",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Pigeon_05.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030306": {
+    "id": "28030306",
+    "name": "Crow",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Crow_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030313": {
+    "id": "28030313",
+    "name": "Dusk Bird",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Pigeon_Beak.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030401": {
+    "id": "28030401",
+    "name": "Crimson Finch",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Tit_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030402": {
+    "id": "28030402",
+    "name": "Golden Finch",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Tit_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030403": {
+    "id": "28030403",
+    "name": "Snow Finch",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Tit_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030404": {
+    "id": "28030404",
+    "name": "Emerald Finch",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Tit_04.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030501": {
+    "id": "28030501",
+    "name": "Scarletbeak Duck",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Wigeon_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030502": {
+    "id": "28030502",
+    "name": "Emerald Duck",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Wigeon_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030503": {
+    "id": "28030503",
+    "name": "Velvetfall Duck",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Wigeon_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030601": {
+    "id": "28030601",
+    "name": "Snow-Winged Goose",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Swan_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030602": {
+    "id": "28030602",
+    "name": "Darkwing Goose",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Swan_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030603": {
+    "id": "28030603",
+    "name": "Redbill Pelican",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Uka_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030701": {
+    "id": "28030701",
+    "name": "Flatcrest Fulmar",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Albatross_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030702": {
+    "id": "28030702",
+    "name": "Violetgold Angler Gull",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Seagull_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030703": {
+    "id": "28030703",
+    "name": "Slate Umbrellafinch",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Eggplant_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030704": {
+    "id": "28030704",
+    "name": "Burgundy Umbrellafinch",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Eggplant_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030705": {
+    "id": "28030705",
+    "name": "Magenta Fantail Pigeon",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Fantail_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030706": {
+    "id": "28030706",
+    "name": "Viridian Fantail Pigeon",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Fantail_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030707": {
+    "id": "28030707",
+    "name": "Redcrown Finch",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Larvivora_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28030708": {
+    "id": "28030708",
+    "name": "Bluecrown Finch",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Larvivora_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040101": {
+    "id": "28040101",
+    "name": "Black-Back Bass",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Fish_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040102": {
+    "id": "28040102",
+    "name": "Blue-Fin Bass",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Fish_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040103": {
+    "id": "28040103",
+    "name": "Golden Bass",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Fish_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040201": {
+    "id": "28040201",
+    "name": "Medaka",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131000.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040202": {
+    "id": "28040202",
+    "name": "Glaze Medaka",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131001.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040203": {
+    "id": "28040203",
+    "name": "Sweet-Flower Medaka",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131002.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040204": {
+    "id": "28040204",
+    "name": "Aizen Medaka",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131003.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040205": {
+    "id": "28040205",
+    "name": "Dawncatcher",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131004.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040206": {
+    "id": "28040206",
+    "name": "Crystalfish",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131005.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040301": {
+    "id": "28040301",
+    "name": "Lunged Stickleback",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131006.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040302": {
+    "id": "28040302",
+    "name": "Betta",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131007.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040303": {
+    "id": "28040303",
+    "name": "Venomspine Fish",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131008.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040304": {
+    "id": "28040304",
+    "name": "Akai Maou",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131009.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040305": {
+    "id": "28040305",
+    "name": "Snowstrider",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131010.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040401": {
+    "id": "28040401",
+    "name": "Golden Koi",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131011.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040402": {
+    "id": "28040402",
+    "name": "Rusty Koi",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131012.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040501": {
+    "id": "28040501",
+    "name": "Brown Shirakodai",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131013.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040502": {
+    "id": "28040502",
+    "name": "Purple Shirakodai",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131014.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040503": {
+    "id": "28040503",
+    "name": "Tea-Colored Shirakodai",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131015.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040504": {
+    "id": "28040504",
+    "name": "Abiding Angelfish",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131016.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040505": {
+    "id": "28040505",
+    "name": "Raimei Angelfish",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131017.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040506": {
+    "id": "28040506",
+    "name": "Moonfin",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131018.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040601": {
+    "id": "28040601",
+    "name": "Pufferfish",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131019.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040602": {
+    "id": "28040602",
+    "name": "Bitter Pufferfish",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131020.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040701": {
+    "id": "28040701",
+    "name": "Divda Ray",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131021.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040702": {
+    "id": "28040702",
+    "name": "Formalo Ray",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131022.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040703": {
+    "id": "28040703",
+    "name": "Floating Ray",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Fishable_Ray_Stellamarisidae_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040801": {
+    "id": "28040801",
+    "name": "True Fruit Angler",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131023.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040802": {
+    "id": "28040802",
+    "name": "Peach of the Deep Waves",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131024.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040803": {
+    "id": "28040803",
+    "name": "Sandstorm Angler",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131025.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040804": {
+    "id": "28040804",
+    "name": "Sunset Cloud Angler",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131026.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040901": {
+    "id": "28040901",
+    "name": "Lazurite Axe Marlin",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131027.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040902": {
+    "id": "28040902",
+    "name": "Halcyon Jade Axe Marlin",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131028.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28040903": {
+    "id": "28040903",
+    "name": "Streaming Axe Marlin",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131029.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28041001": {
+    "id": "28041001",
+    "name": "Rippling Heartfeather Bass",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131030.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28041002": {
+    "id": "28041002",
+    "name": "Blazing Heartfeather Bass",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131031.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28041003": {
+    "id": "28041003",
+    "name": "Jade Heartfeather Bass",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131037.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28041101": {
+    "id": "28041101",
+    "name": "Maintenance Mek: Initial Configuration",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131032.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28041102": {
+    "id": "28041102",
+    "name": "Maintenance Mek: Water Body Cleaner",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131033.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28041103": {
+    "id": "28041103",
+    "name": "Maintenance Mek: Situation Controller",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131034.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28041104": {
+    "id": "28041104",
+    "name": "Maintenance Mek: Platinum Collection",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131035.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28041105": {
+    "id": "28041105",
+    "name": "Maintenance Mek: Gold Leader",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_ItemIcon_131036.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28050101": {
+    "id": "28050101",
+    "name": "Anemo Crystalfly",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Wisp_Wind_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28050102": {
+    "id": "28050102",
+    "name": "Geo Crystalfly",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Wisp_Rock_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28050103": {
+    "id": "28050103",
+    "name": "Cryo Crystalfly",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Wisp_Ice_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28050104": {
+    "id": "28050104",
+    "name": "Electro Crystalfly",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Wisp_Electric_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28050105": {
+    "id": "28050105",
+    "name": "Coral Butterfly",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Wisp_Tokoyo_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28050106": {
+    "id": "28050106",
+    "name": "Dendro Crystalfly",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Wisp_Grass_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28050107": {
+    "id": "28050107",
+    "name": "Hydro Crystalfly",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Wisp_Water_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28050201": {
+    "id": "28050201",
+    "name": "Amateur Weasel Thief",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Thoarder_Weasel_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28050202": {
+    "id": "28050202",
+    "name": "Hoarder Weasel Thief",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Thoarder_Weasel_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28050203": {
+    "id": "28050203",
+    "name": "Golden Weasel Thief",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Thoarder_Weasel_03.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28050301": {
+    "id": "28050301",
+    "name": "Lucklight Fly",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Boltbug_Lightbug_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28050302": {
+    "id": "28050302",
+    "name": "Malachitin Lumibug",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Boltbug_Lightbug_02.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28050401": {
+    "id": "28050401",
+    "name": "Scarab",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_BoltBug_Scarab_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28050701": {
+    "id": "28050701",
+    "name": "Subdetection Unit",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_BoltBug_MachinaIustitia_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28060101": {
+    "id": "28060101",
+    "name": "Spinocrocodile",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Gator_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28060201": {
+    "id": "28060201",
+    "name": "Rishboland Tiger",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Panther_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28060301": {
+    "id": "28060301",
+    "name": "Red Vulture",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Vulture_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28060401": {
+    "id": "28060401",
+    "name": "Scorpion",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Scorpion_01.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28060501": {
+    "id": "28060501",
+    "name": "Desert Sumpter Beast",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Megamoth_Desert.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28060601": {
+    "id": "28060601",
+    "name": "Shaggy Sumpter Beast",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Megamoth_Jungle.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "28061501": {
+    "id": "28061501",
+    "name": "Flying Serpent",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_AnimalIcon_Chrysopelea.png",
+    "reward": [
+      "202",
+      "112095",
+      "112096",
+      "112097",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400062"
+    ]
+  },
+  "29010101": {
+    "id": "29010101",
+    "name": "Stormterror",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Dvalin.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "101101",
+      "101102",
+      "101103",
+      "101104",
+      "101105",
+      "104121",
+      "104122",
+      "104123",
+      "104124",
+      "104141",
+      "104142",
+      "104143",
+      "104144",
+      "104151",
+      "104152",
+      "104153",
+      "104154",
+      "113003",
+      "113004",
+      "113005",
+      "113021",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "29020101": {
+    "id": "29020101",
+    "name": "Lupus Boreas, Dominator of Wolves",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_LupiBoreas.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "101101",
+      "101102",
+      "101103",
+      "101104",
+      "101105",
+      "104111",
+      "104112",
+      "104113",
+      "104114",
+      "104161",
+      "104162",
+      "104163",
+      "104164",
+      "104171",
+      "104172",
+      "104173",
+      "104174",
+      "113006",
+      "113007",
+      "113008",
+      "113021",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "29030101": {
+    "id": "29030101",
+    "name": "Childe",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Tartaglia.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "101101",
+      "101102",
+      "101103",
+      "101104",
+      "101105",
+      "104121",
+      "104122",
+      "104123",
+      "104124",
+      "104141",
+      "104142",
+      "104143",
+      "104144",
+      "104161",
+      "104162",
+      "104163",
+      "104164",
+      "113013",
+      "113014",
+      "113015",
+      "113021",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "29040101": {
+    "id": "29040101",
+    "name": "Azhdaha",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Dahaka.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "101101",
+      "101102",
+      "101103",
+      "101104",
+      "101105",
+      "104111",
+      "104112",
+      "104113",
+      "104114",
+      "104141",
+      "104142",
+      "104143",
+      "104144",
+      "104171",
+      "104172",
+      "104173",
+      "104174",
+      "113017",
+      "113018",
+      "113019",
+      "113021",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "29050101": {
+    "id": "29050101",
+    "name": "La Signora",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_LaSignora.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "101101",
+      "101102",
+      "101103",
+      "101104",
+      "101105",
+      "104111",
+      "104112",
+      "104113",
+      "104114",
+      "104161",
+      "104162",
+      "104163",
+      "104164",
+      "113021",
+      "113025",
+      "113026",
+      "113027",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "29060201": {
+    "id": "29060201",
+    "name": "Magatsu Mitake Narukami no Mikoto",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Shougun_Mitakenarukami.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "101101",
+      "101102",
+      "101103",
+      "101104",
+      "101105",
+      "104141",
+      "104142",
+      "104143",
+      "104144",
+      "113021",
+      "113032",
+      "113033",
+      "113034",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "29070101": {
+    "id": "29070101",
+    "name": "Shouki no Kami, the Prodigal",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Nada.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "101111",
+      "101112",
+      "101113",
+      "101114",
+      "101115",
+      "104121",
+      "104122",
+      "104123",
+      "104124",
+      "104141",
+      "104142",
+      "104143",
+      "104144",
+      "104151",
+      "104152",
+      "104153",
+      "104154",
+      "113021",
+      "113041",
+      "113042",
+      "113043",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "29080101": {
+    "id": "29080101",
+    "name": "Guardian of Apep's Oasis",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Apep.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "101111",
+      "101112",
+      "101113",
+      "101114",
+      "101115",
+      "104131",
+      "104132",
+      "104133",
+      "104134",
+      "113021",
+      "113046",
+      "113047",
+      "113048",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  },
+  "29090101": {
+    "id": "29090101",
+    "name": "All-Devouring Narwhal",
+    "icon": "https://api.ambr.top/assets/UI/monster/UI_MonsterIcon_Ptahur_Devourer.png",
+    "reward": [
+      "102",
+      "105",
+      "202",
+      "101111",
+      "101112",
+      "101113",
+      "101114",
+      "101115",
+      "104121",
+      "104122",
+      "104123",
+      "104124",
+      "113021",
+      "113054",
+      "113055",
+      "113056",
+      "400022",
+      "400023",
+      "400032",
+      "400033",
+      "400042",
+      "400043",
+      "400088",
+      "400089",
+      "400098",
+      "400099"
+    ]
+  }
+}
