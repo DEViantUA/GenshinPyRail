@@ -98,7 +98,7 @@ class Creat:
         
         return {"id": data.id, "card": background}
     
-    async def start(self, character_id = None):
+    async def start(self, character_id = None, row = 6, spacing = 10):
         await git_file.change_Font(0)
         self.maska_character = await git.maska_charter_list
         self.maska_weapon = await git.maska_weapon_list
@@ -115,23 +115,21 @@ class Creat:
                     card = await self.creat_cards(key)
                     return {"count": self.count, "card": card["card"], "icon": [card], "character": self.character_info}
         
-        images_per_row = 6
-        spacing = 10
         image_size = (219, 131)
 
         # Вычисляем размер фона
         num_images = len(card)
-        num_rows = (num_images + images_per_row - 1) // images_per_row
-        width = images_per_row * (image_size[0] + spacing) + 20
+        num_rows = (num_images + row - 1) // row
+        width = row * (image_size[0] + spacing) + 20
         height = num_rows * (image_size[1] + spacing) + 16
 
         background = Image.new('RGBA', (width-2, height), color= (0,0,0,0))
-
+    
         for i, image in enumerate(card):
-            row = i // images_per_row
-            col = i % images_per_row
+            row_index  = i // row
+            col = i % row
             x = 10 + col * (image_size[0] + spacing)
-            y = 8 + row * (image_size[1] + spacing)
+            y = 8 + row_index  * (image_size[1] + spacing)
 
             background.alpha_composite(image["card"], (x, y))
             

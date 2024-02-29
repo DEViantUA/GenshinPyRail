@@ -1,12 +1,8 @@
 # Copyright 2024 DEViantUa <t.me/deviant_ua>
 # All rights reserved.
 
-
-import json
-import asyncio
-
 from PIL import Image,ImageDraw
-from ...tools import utility, pill, git_file, update_data
+from ...tools import utility, pill, git_file
 from pathlib import Path
 
 git = git_file.ImageCache()

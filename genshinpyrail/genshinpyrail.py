@@ -56,7 +56,7 @@ class GenPyRail(metaclass=ABCMeta):
         
         self.lang = convertor_lang.get(lang,lang)
     
-    async def setting_client(self,cookies):
+    async def setting_client(self,cookies,lang):
         
         """Changing the client with new parameters
 
@@ -165,12 +165,14 @@ class GenshinUser(GenPyRail):
     async def __aexit__(self, *args):
         pass
     
-    async def get_character_list(self, uid = None, character_id = None):
+    async def get_character_list(self, uid = None, character_id = None, row = 6, spacing = 10):
         """Creates an image with all of the player's Genshin characters
 
         Args:
             uid (str, optional): Player UID To get information about another account. Defaults to None.
             character_id (int, optional): Character ID Specify if you want to receive only 1 character card. Defaults to None.
+            row (int, optional): Number of images in one row.
+            spacing (int, optional): Space between images.
 
         Returns:
             GenshinCharterList: Class containing information about the quantity and finished cards
@@ -180,7 +182,7 @@ class GenshinUser(GenPyRail):
             uid = self.uid
         data = await self.client.get_genshin_characters(uid)
         
-        data = await genshin_character_list.Creat(data).start(character_id)
+        data = await genshin_character_list.Creat(data).start(character_id, row, spacing)
         
         return model.GenshinCharterList(**data)
     
@@ -239,12 +241,14 @@ class StarRaillUser(GenPyRail):
         pass
     
     
-    async def get_character_list(self, uid = None, character_id = None):
+    async def get_character_list(self, uid = None, character_id = None, row = 6, spacing = 20):
         """Creates an image with all of the player's Star Rail characters
 
         Args:
             uid (str, optional): Player UID To get information about another account. Defaults to None.
             character_id (int, optional): Character ID Specify if you want to receive only 1 character card. Defaults to None.
+            row (int, optional): Number of images in one row.
+            spacing (int, optional): Space between images.
 
         Returns:
             StarRaillCharterList: Class containing information about the quantity and finished cards
@@ -253,7 +257,7 @@ class StarRaillUser(GenPyRail):
         if uid is None:
             uid = self.uid
         data = await self.client.get_starrail_characters(uid)
-        data = await honkai_character_list.Creat(data.avatar_list).start(character_id)
+        data = await honkai_character_list.Creat(data.avatar_list).start(character_id, row, spacing)
         return model.StarRaillCharterList(**data)
     
     async def get_ascension(self, character_id):
